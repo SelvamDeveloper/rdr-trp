@@ -31,10 +31,7 @@
 
 
 
+// sdasdas/
 
-          
-          function alert(){
-            window.alert("announcement will update soon")
-          }
-
+   
           
